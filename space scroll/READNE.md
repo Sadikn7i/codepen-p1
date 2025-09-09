@@ -12,7 +12,7 @@ Scroll through the page to launch a rocket, fly past the Moon, Mars, and into de
 
 ## Setup & Run
 1. Clone this repository:
-   git clone https://github.com/your-username/space-scroll.git
+   git clone https://github.com/Sadikn7i/codepen-p1
 2. Open the project in VS Code.
 3. Install the Live Server extension (if you don’t have it).
 4. Right-click on `index.html` → Open with Live Server.
