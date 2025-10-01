@@ -3,7 +3,7 @@
 An interactive scroll-driven 3D animation built with Three.js and GSAP ScrollTrigger.  
 Scroll through the page to launch a rocket, fly past the Moon, Mars, and into deep space.
 
-
+## Features
 - Three.js 3D Scene (rocket, planets, stars)
 - Scroll animations powered by GSAP ScrollTrigger
 - Stars background for a cosmic vibe
